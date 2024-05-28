@@ -1,6 +1,5 @@
 # WORK-BREAKDOWN-STRUCTURE
- ***[Work Breakdown Structure]{.underline}***
---------------------------------------------
+ 
 
 **What Is a Work Breakdown Structure (WBS)?**
 ---------------------------------------------
@@ -33,10 +32,8 @@ management process groups and knowledge areas such as:
 
 -   Project Planning, Project Scheduling and Project Budgeting
 
--   Risk Management, Resource Management, Task Management and Team
-    > Management
+-   Risk Management, Resource Management, Task Management and Team management
 
 The following is the snippet of my WBS,
 
-![](.//media/image1.png){width="7.971456692913386in"
-height="3.244792213473316in"}
+![](.//media/image1.png)
